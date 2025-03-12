@@ -1,8 +1,8 @@
 {
-  "name": "guia-extranjeros",
+  "name": "app-guia-extranjeros",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://olena-koval.github.io/guia-extranjeros",
+  "homepage": "https://olena-koval.github.io/app-guia-extranjeros",
   "dependencies": {
     "@react-google-maps/api": "^2.20.6",
     "@testing-library/dom": "^10.4.0",
